@@ -13,3 +13,6 @@
 **MENTOR NAME**: NEELA SANTOSH 
 
 **OUTPUT OF THE CODE**: 
+
+![WhatsApp Image 2025-01-12 at 10 30 24 PM](https://github.com/user-attachments/assets/734fba35-2662-443e-abd2-685dac0b9c24)
+
