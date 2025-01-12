@@ -12,4 +12,5 @@
 
 **MENTOR NAME**: NEELA SANTOSH 
 
-**OUTPUT**: 
+**OUTPUT OF THE CODE**: 
+![Screenshort](https://github.com/user-attachments/assets/51518305-5b36-4d54-9aed-3587ec4a64e4)
